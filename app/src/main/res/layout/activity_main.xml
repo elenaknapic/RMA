@@ -110,7 +110,7 @@
             android:layout_marginRight="216dp"
             android:layout_marginBottom="157dp"
             android:visibility="invisible"
-            app:srcCompat="@drawable/overweight.jpg" />
+            app:srcCompat="@drawable/obese.jpg" />
 
     </RelativeLayout>
 
